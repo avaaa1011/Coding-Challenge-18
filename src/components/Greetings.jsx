@@ -1,7 +1,7 @@
 //task 1: creating a new component 
 import React from "react";
- 
- function Greetings() {
+ //creating a new component 
+ function Greetings() { //functional react component
      return (
          <div>
              <h2>Hello from the Greeting Component!</h2>
